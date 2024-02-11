@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "android": {
+      "permissions": ["READ_EXTERNAL_STORAGE"]
+    },
+    "developer": {
+      "warningSupressRegex": [".*"]
+    },
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "docusafe",
+    "slug": "docusafe"
+  }
+}
